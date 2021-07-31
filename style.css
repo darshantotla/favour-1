@@ -1,0 +1,22 @@
+body{
+background-color: lime;
+font-family: fantasy;
+color: black;
+text-align: center;
+background-repeat: no-repeat;
+}
+#pickachu{
+border-radius: 50%;
+width: 100px;
+height: 200px;
+}
+h1{
+text-shadow: 2px 2px cyan;
+font-size: 20px;
+}
+#about{
+padding: 20px;
+font-size: 18;
+text-align: center;
+}
+
